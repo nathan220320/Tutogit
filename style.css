@@ -1,5 +1,9 @@
 div{
+<<<<<<< HEAD
     background-color: rgb(149, 158, 19);
+=======
+    background-color: rgb(255, 102, 0);
+>>>>>>> dc46543f81fc0ce5cf0858dadc752f1ad1d27379
     width: 80vw;
     height: 50vh;
 }
